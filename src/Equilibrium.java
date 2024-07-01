@@ -1,3 +1,4 @@
+
 public class Equilibrium {
     public static void main(String[] args) {
         int [] arr = {3,2,5,3,2};

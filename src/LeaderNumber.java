@@ -1,4 +1,5 @@
-//Find the leader number from array of right element
+//Find the leader number from array of right element such as 9,7,4
+
 public class LeaderNumber {
     public static void main(String[] args) {
         int [] arr ={9,2,3,7,4,2};
